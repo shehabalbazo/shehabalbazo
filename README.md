@@ -58,6 +58,10 @@ I'm a passionate Software Developer focused on building efficient, scalable, and
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shehabalbazo&theme=tokyonight&hide_border=true" />
-</p>
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shehabalbazo&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img src="https://streak-stats.demolab.com?user=shehabalbazo&theme=github-dark-blue&hide_border=true" />
+
+</div>
